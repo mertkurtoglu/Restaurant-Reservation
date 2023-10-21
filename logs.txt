@@ -1,0 +1,4 @@
+2023.10.21, 09:33:05.0586 UTC -> Reservation 65337a0ef1a04e5f6def09fb , Mert Kurtoglu has been confirmed
+2023.10.21, 09:33:48.0161 UTC -> Reservation 65337a0ef1a04e5f6def09fb , Mert Kurtoglu has been cancelled
+2023.10.21, 09:33:53.0765 UTC -> Reservation 65337a0ef1a04e5f6def09fb , Mert Kurtoglu has been confirmed
+2023.10.21, 09:34:28.0326 UTC -> Reservation 65337d795da38f0cb77fbddd , John Doe has been confirmed

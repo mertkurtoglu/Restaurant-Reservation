@@ -1,0 +1,27 @@
+/*LOGIN */
+form {
+  width: 400px;
+  padding: 20px 20px 30px 20px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.authenticationForm h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.formButton {
+  display: grid;
+  gap: 1rem;
+  margin-top: 20px;
+}
+
+form p {
+  color: #6a6f73;
+  font-size: small;
+}
